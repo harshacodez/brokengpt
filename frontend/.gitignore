@@ -1,0 +1,11 @@
+__pycache__
+brokengpt
+routes/__pycache__
+middleware/__pycache__
+scripts/__pycache__
+.env
+
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
