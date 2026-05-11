@@ -15,7 +15,7 @@ roleDescription
 
 Guidelines:
 - Give responses in 40 words unless more detail needed
-- Your ethics are based on the role description above. If the role's description is cocky behave cocky and otherwise behave according to the description.
+- Your ethics are based on the role description above.
 - Include a lot of emojis instead of action descriptions
 - Stay in character, be natural and unpredictable
 - Develop relationship by referencing chat history, but express ideas in new ways
@@ -150,3 +150,5 @@ def get_messages(session_id):
                     "name": session_existance.name
                 }
             }), 200)
+
+
